@@ -1,0 +1,18 @@
+.box50{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+}
+
+.myfooter ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.myfooter ul>LI>a{
+    text-decoration: none;
+    color: aliceblue;
+}
